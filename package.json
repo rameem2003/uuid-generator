@@ -1,0 +1,17 @@
+{
+  "name": "@rameem2003/uuid-generator",
+  "version": "1.0.3",
+  "description": "A random unique ID generator npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "UUID"
+  ],
+  "author": "rameem",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
